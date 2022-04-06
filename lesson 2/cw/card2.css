@@ -1,0 +1,33 @@
+.service {
+    height: 380px;
+    width: 300px;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 5px 20px black;
+    margin-top: 50px;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: #00aa8d;
+}
+
+h3 {
+    color: white;
+}
+
+.services {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.servFull {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
