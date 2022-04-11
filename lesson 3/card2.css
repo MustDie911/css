@@ -1,0 +1,62 @@
+.full{
+    max-width: 99.9%
+}
+
+.toplvl{
+    height: 25px;
+    background-color: #8897aa;
+    display: flex;
+    justify-content: space-around;
+    padding: 45px;
+}
+.restart{
+    height: 50px;
+    width: 150px;
+    background-color: darkblue;
+    border-radius: 15px;
+    color: white;
+}
+
+.rightSide{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.bigw{
+    height: 30px;
+    width: 30px;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+}
+.thrLines{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.line{
+    height: 5px;
+    width: 100px;
+    background-color: darkblue;
+    margin-top: 5px;
+    border-radius: 15px;
+}
+.scnd{
+    height: 350px;
+    background-color: darkblue;
+}
+.thrpart{
+    height: 250px;
+    background-color: #8897aa;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.card{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    border-radius: 25px;
+    margin-top: -70px;
+}
