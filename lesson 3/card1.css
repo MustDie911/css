@@ -25,6 +25,9 @@
     margin-top: -15px;
     background-color: white;
     left: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
